@@ -3,7 +3,7 @@ title: Meet Samantha - A RAG(M)
 author: cr
 date: 2023-08-11 00:34:00 +0800
 categories: [Blogging, Tutorial]
-tags: [favicon]
+tags: [ai, nlp, rag, m]
 ---
 
 ## Einleitung

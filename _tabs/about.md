@@ -4,5 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+>Hallo! Ich bin Christoph und das ist mein persönlicher Blog 🚀.
+><br>
+><br>
+>Hier schreibe ich über meine Projekte, kleine Tutorials und meine Gedanken zu Themen aus der Informationstechnologie.
+><br>
+><br>
+>Kontaktiere mich
+><br>
+>chrisrothbog at gmail
 {: .prompt-tip }
