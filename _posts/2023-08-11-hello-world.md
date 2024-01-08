@@ -6,7 +6,6 @@ categories: [Blogging, Tutorial]
 tags: [favicon]
 ---
 
-
 ## Einleitung
 In diesem Blogpost möchte ich Ihnen zeigen, wie Sie eine KI in Ihrer Firma nutzen könnnen, ohne auf Services Dritter zurückgreifen zu müssen. Dazu werde ich Ihnen anhand eines Beispiel-Projektes ("Samantha") zeigen, wie ein Einsatz aussehen könnte. Zu Beginn sollten wir jedoch erst einmal klären, was KI eigentlich ist. 
 Eine KI besteht aus zwei Teilen: dem Modell und den Daten. Das Modell (auch bekannt als LLM) ist eine mathematische Funktion, die aus den Daten gelernt hat. Das Modell kann dann auf neue Daten angewendet werden. Einen Link zum Demoprojekt werde ich am Ende des Blogposts bereitstellen.
