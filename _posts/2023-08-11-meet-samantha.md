@@ -2,8 +2,9 @@
 title: Meet Samantha - A RAG(M)
 author: cr
 date: 2023-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Tutorial, AI]
 tags: [ai, nlp, rag, m]
+published: false
 ---
 
 ## Einleitung
@@ -13,6 +14,6 @@ Eine KI besteht aus zwei Teilen: dem Modell und den Daten. Das Modell (auch beka
 ## RAG - Was ist das?
 Bevor wir mit dem Tutorial beginnen, sollte ich auch noch klären was ich mit RAG(M) genau meine. 
 RAG steht für "Retrieval-Augmented Generation". Das bedeutet, dass wir einen Text generieren, der auf (im besten Fall) Firmendaten basiert.
-Das M steht ganz simple für "Model". Also "Retrieval-Augmented Generation Model".
+Das M steht ganz simple für "Model". Zusammengefasst also "Retrieval-Augmented Generation Model".
 
 ## Das Projekt
